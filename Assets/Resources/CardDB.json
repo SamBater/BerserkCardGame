@@ -1,0 +1,252 @@
+﻿{
+    "1": {
+        "Id": 1,
+        "Name": "格斯",
+        "Cost": 7,
+        "Atk": 7,
+        "Hp": 7,
+        "Description": "冲锋",
+        "Function": 4,
+        "ImagePath": "格斯"
+    },
+    "2": {
+        "Id": 2,
+        "Name": "格里菲斯_黄金时代",
+        "Cost": 7,
+        "Atk": 5,
+        "Hp": 5,
+        "Description": "所有[鹰之团]+2/+2",
+        "Function": 4,
+        "ImagePath": "格里菲斯_黄金时代"
+    },
+    "3": {
+        "Id": 3,
+        "Name": "贝黑莱特",
+        "Cost": 4,
+        "Atk": -1,
+        "Hp": -1,
+        "Description": 2,
+        "Function": 4,
+        "ImagePath": "贝黑莱特"
+    },
+    "4": {
+        "Id": 4,
+        "Name": "万箭齐发",
+        "Cost": 1,
+        "Atk": 0,
+        "Hp": 0,
+        "Description": 2,
+        "Function": 4,
+        "ImagePath": "万箭齐发"
+    },
+    "5": {
+        "Id": 5,
+        "Name": "伊斯多洛",
+        "Cost": 2,
+        "Atk": 2,
+        "Hp": 4,
+        "Description": "石头大王",
+        "Function": 4,
+        "ImagePath": "伊斯多洛"
+    },
+    "6": {
+        "Id": 6,
+        "Name": "光之鹰",
+        "Cost": 8,
+        "Atk": 5,
+        "Hp": 5,
+        "Description": "抽两张牌;赋予+3/+3",
+        "Function": 4,
+        "ImagePath": "光之鹰"
+    },
+    "7": {
+        "Id": 7,
+        "Name": "决战",
+        "Cost": 4,
+        "Atk": -1,
+        "Hp": -1,
+        "Description": "使得一名友方单位获得嘲讽",
+        "Function": 4,
+        "ImagePath": "决战"
+    },
+    "8": {
+        "Id": 8,
+        "Name": "劳古斯",
+        "Cost": 6,
+        "Atk": 6,
+        "Hp": 6,
+        "Description": "战吼：对一名指定敌人造成3点伤害",
+        "Function": 4,
+        "ImagePath": "劳古斯"
+    },
+    "9": {
+        "Id": 9,
+        "Name": "卡斯嘉",
+        "Cost": 5,
+        "Atk": 5,
+        "Hp": 6,
+        "Description": "有一定几率免疫物理伤害",
+        "Function": 4,
+        "ImagePath": "卡斯嘉"
+    },
+    "10": {
+        "Id": 10,
+        "Name": "史尔基",
+        "Cost": 2,
+        "Atk": 1,
+        "Hp": 2,
+        "Description": "立即将一张卡组中的法术加入手牌",
+        "Function": 5,
+        "ImagePath": "史尔基"
+    },
+    "11": {
+        "Id": 11,
+        "Name": "哥尔卡斯",
+        "Cost": 3,
+        "Atk": 3,
+        "Hp": 5,
+        "Description": 21,
+        "Function": 1,
+        "ImagePath": "哥尔卡斯"
+    },
+    "12": {
+        "Id": 12,
+        "Name": "塞尔比高",
+        "Cost": 5,
+        "Atk": 5,
+        "Hp": 4,
+        "Description": "有一定几率免疫物理伤害;无视嘲讽",
+        "Function": 1,
+        "ImagePath": "塞尔比高"
+    },
+    "13": {
+        "Id": 13,
+        "Name": "斩龙",
+        "Cost": 5,
+        "Atk": 6,
+        "Hp": 4,
+        "Description": "攻击生命值为4及以下的随从时免疫伤害。",
+        "Function": 1,
+        "ImagePath": "斩龙"
+    },
+    "14": {
+        "Id": 14,
+        "Name": "格挡",
+        "Cost": 2,
+        "Atk": -1,
+        "Hp": -1,
+        "Description": "反制对方的下一次攻击、法术",
+        "Function": 1,
+        "ImagePath": "格挡"
+    },
+    "15": {
+        "Id": 15,
+        "Name": "格斯_狂战士形态",
+        "Cost": 10,
+        "Atk": 10,
+        "Hp": 10,
+        "Description": "不受控制；当承受了致命伤害时，将多余的伤害转移到控制者",
+        "Function": 1,
+        "ImagePath": "格斯_狂战士形态"
+    },
+    "16": {
+        "Id": 16,
+        "Name": "比宾",
+        "Cost": 4,
+        "Atk": 3,
+        "Hp": 6,
+        "Description": "嘲讽",
+        "Function": 1,
+        "ImagePath": "比宾"
+    },
+    "17": {
+        "Id": 17,
+        "Name": "火炮",
+        "Cost": 2,
+        "Atk": -1,
+        "Hp": -1,
+        "Description": "对所有敌方单位造成3点伤害",
+        "Function": 1,
+        "ImagePath": "火炮"
+    },
+    "18": {
+        "Id": 18,
+        "Name": "烙印",
+        "Cost": 1,
+        "Atk": -1,
+        "Hp": -1,
+        "Description": "标记一名敌人；下次你的回合开始时消灭其",
+        "Function": 1,
+        "ImagePath": "烙印"
+    },
+    "19": {
+        "Id": 19,
+        "Name": "狂怒",
+        "Cost": 4,
+        "Atk": -1,
+        "Hp": -1,
+        "Description": "使得一名单位获得狂怒",
+        "Function": 1,
+        "ImagePath": "狂怒"
+    },
+    "20": {
+        "Id": 20,
+        "Name": "蚀之刻",
+        "Cost": 10,
+        "Atk": -1,
+        "Hp": -1,
+        "Description": "标记所有单位，使其获得【烙印】；在你的下个回合开始后，召唤【费蒙特】",
+        "Function": 1,
+        "ImagePath": "蚀之刻"
+    },
+    "21": {
+        "Id": 21,
+        "Name": "费蒙特",
+        "Cost": 10,
+        "Atk": 10,
+        "Hp": 10,
+        "Description": "免疫死亡",
+        "Function": 1,
+        "ImagePath": "费蒙特"
+    },
+    "22": {
+        "Id": 22,
+        "Name": "里基特",
+        "Cost": 3,
+        "Atk": 1,
+        "Hp": 1,
+        "Description": "抽取一张武器牌",
+        "Function": 1,
+        "ImagePath": "里基特"
+    },
+    "23": {
+        "Id": 23,
+        "Name": "阿巴英",
+        "Cost": 5,
+        "Atk": 5,
+        "Hp": 5,
+        "Description": "潜行；无视嘲讽",
+        "Function": 1,
+        "ImagePath": "阿巴英"
+    },
+    "24": {
+        "Id": 24,
+        "Name": "阿巴英_使徒形态",
+        "Cost": 7,
+        "Atk": 7,
+        "Hp": 7,
+        "Description": "无视嘲讽",
+        "Function": 1,
+        "ImagePath": "阿巴英_使徒形态"
+    },
+    "25": {
+        "Id": 25,
+        "Name": "骷髅骑士",
+        "Cost": 8,
+        "Atk": 8,
+        "Hp": 8,
+        "Description": "无视嘲讽和魔法",
+        "Function": 1,
+        "ImagePath": "骷髅骑士"
+    }
+}
